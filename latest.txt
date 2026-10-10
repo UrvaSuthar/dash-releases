@@ -1,0 +1,5 @@
+versionCode=83
+versionName=0.1.83
+sha256=97ca2ba50507d7c60883f5903406b33b6d345cc9dad2a10153a27a9c2165c96d
+apk=dash-83.apk
+notes=feat(music): show song info from session-less players via music broadcasts; buttons send media keys
